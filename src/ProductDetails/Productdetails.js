@@ -42,7 +42,7 @@ export const Productdetails = (props) => {
         {featurelist}
        
       </div>
-      <button className={classes.Primarybutton}>Buy Now</button>
+      <button className={classes.Primarybutton}>Buy Now!</button>
     
     </div>
   )
