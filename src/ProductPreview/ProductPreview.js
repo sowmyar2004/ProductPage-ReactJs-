@@ -12,7 +12,7 @@ export const ProductPreview = (props) => {
           props.currentselectedfeature === 1?        
           <div className={classes.heartbeatsection}>
             <i className="fa-solid fa-heart-pulse"></i>
-            <p>78</p>
+            <p>76</p>
         </div>
         :
         <div className={classes.timesection}>
