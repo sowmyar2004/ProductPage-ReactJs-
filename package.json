@@ -17,8 +17,8 @@
     "test": "react-scripts test",
     "eject": "react-scripts eject",
     "predeploy": "npm run build",
-    "deploy": "gh-pages -d build",
-    "homepage":"https://rr4883.github.io/ProductPage-ReactJs-"
+    "deploy": "gh-pages -d dist",
+    "homepage": "https://sowmyar2004.github.io/ProductPage-ReactJs-"
   },
   "eslintConfig": {
     "extends": [
@@ -39,6 +39,6 @@
     ]
   },
   "devDependencies": {
-    "gh-pages": "^6.1.1"
+    "gh-pages": "^6.3.0"
   }
 }
