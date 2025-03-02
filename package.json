@@ -1,5 +1,6 @@
 {
   "name": "ra2111031010062",
+  "homepage": "https://sowmyar2004.github.io/ProductPage-ReactJs-",
   "version": "0.1.0",
   "private": true,
   "dependencies": {
@@ -17,8 +18,7 @@
     "test": "react-scripts test",
     "eject": "react-scripts eject",
     "predeploy": "npm run build",
-    "deploy": "gh-pages -d build",
-    "homepage": "https://sowmyar2004.github.io/ProductPage-ReactJs-"
+    "deploy": "gh-pages -d build"
   },
   "eslintConfig": {
     "extends": [
